@@ -17,3 +17,4 @@ Link to the zip file:
 
 # Get Started 
 Please get in touch with our sales team in order to get the productive API Key 
+https://www.paysafecash.com/en/business/contact/
